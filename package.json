@@ -1,0 +1,27 @@
+{
+  "name": "react-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimpoknot/React-TDD-CleanArchitecture.git"
+  },
+  "author": "Marcos Maverick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pimpoknot/React-TDD-CleanArchitecture/issues"
+  },
+  "homepage": "https://github.com/pimpoknot/React-TDD-CleanArchitecture#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "typecript": "^0.0.1-security",
+    "typescript": "^4.5.2"
+  }
+}
