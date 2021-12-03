@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    "isolatedModules": false,
+    "target": "es5",
     "lib": [
       "dom",
       "dom.iterable",
@@ -18,7 +19,7 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
+    
     "noEmit": true,
 
   },
